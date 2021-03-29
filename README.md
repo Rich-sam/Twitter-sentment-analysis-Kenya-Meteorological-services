@@ -1,0 +1,2 @@
+# Twitter-sentment-analysis-Kenya-Meteorological-services
+I  Analysed twitter accounts of Kenya Meteorological services,Rwanda Meteo,Southern sudan Meteo,Uganda Meteo. all these organisations are providers of weather and climate information in east africa. I was interested in evaluating and understanding sentiments of its target group. We wanted to know how effective as media of communication it is.
